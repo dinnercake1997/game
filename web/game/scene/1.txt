@@ -1,0 +1,20 @@
+changeBg:woshi.png
+changeFigure:fuxuanjiaoxiu1.png -left -transform={"scale":{"x":0.7,"y":0.7}} -next
+符玄:亲爱的，我有件事想和你说。 -f0.ogg -fontSize=default -left
+符玄:我们什么时候能有个家呢？我真的很想有个属于我们的小宝贝。 -f1.ogg -fontSize=default -left
+changeFigure:qiong.png -right -transform={"scale":{"x":0.7,"y":0.7}} -next
+穹:那小宝贝哪里去找啊？难道有人会随便把孩子送给我们吗？ -q1.ogg
+changeFigure:fuxuanzhengchang.png -transform={"scale":{"x":0.7,"y":0.7}} -left -next
+符玄:我是说，我们能一起计划拥有自己的孩子啊。 -f2.ogg
+穹:就算我们俩一起去找，别人也不可能就这么给我们孩子吧。 -q2.ogg
+符玄:我的意思是我们可能需要睡觉，然后去尝试要孩子，明白我的意思了么？ -f3.ogg
+穹:可是单凭睡觉怎么能要到孩子呢？如果睡觉就能要到，那大家都不用上班了。 -q3.ogg
+changeFigure:fuxuanshengqi1.png -transform={"scale":{"x":0.7,"y":0.7}} -left -next
+符玄:算了，这样下去生出来的孩子也是个小憨批。 -f4.ogg
+符玄:我的爽肤水和面霜都用完了。 -f5.ogg
+穹:我可没动过你的东西。 -q4.ogg
+changeFigure:fuxuanshengqi2.png -transform={"scale":{"x":0.7,"y":0.7}} -left -next
+符玄:你怎么这样，我是说我的东西用完了，需要你帮我补货一下。 -f6.ogg -fontSize=default
+符玄:不要假装不懂好吗？我现在不想和你说话，你自己好好想想去。 -f7.ogg
+穹:我能稍后去买吗？我这正忙着排位赛。 -q5.ogg
+符玄:你是不是脑子有问题？滚！  -f8.ogg
