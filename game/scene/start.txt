@@ -1,0 +1,3 @@
+
+changeScene:1.txt
+setTransition: -target=0 -enter=blur -exit=0;

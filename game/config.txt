@@ -1,0 +1,5 @@
+Game_name:1;
+Game_key:11c1dbc625e5f8d;
+Title_img:woshi.png;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;
